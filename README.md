@@ -1,6 +1,6 @@
 # Hey 👋
 
-My name is João Vitor, I'm from Brasil... I'm Computer Science Student at Federal University of Ceara, that <br>
+My name is João Vitor, I'm from Brasil... I'm bachelor Computer Science at Federal University of Ceara, that <br>
 has been working as a Fullstack Developer since 2019.
 
 
