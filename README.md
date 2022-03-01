@@ -12,7 +12,9 @@ I'm dedicated about solving problems and learning. Always open to new challenges
 Reach me out 
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Vitor-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-vitor-coelho-291251189)](https://www.linkedin.com/in/jo%C3%A3o-vitor-coelho-291251189)
+[![GitHub jvkass](https://img.shields.io/github/followers/jvkass?label=follow&style=social)](https://github.com/jvkass)
 
+[![jvkass's github stats](https://github-readme-stats.vercel.app/api?username=jvkass)](https://github.com/jvkass/github-readme-stats)
 
 <!---
 jvkass/jvkass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
