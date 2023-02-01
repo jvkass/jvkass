@@ -7,7 +7,7 @@ has been working as a Fullstack Developer since 2019.
 I'm dedicated about solving problems and learning. Always open to new challenges and ready to face changes.
 
 - :round_pushpin: From CE living in Fortaleza
-- :man_technologist: Fullstack Developer at Invillia
+- :man_technologist: Backend Developer at Invillia
 
 Reach me out 
 
