@@ -1,7 +1,7 @@
 # Hey 👋
 
 I'm João Vitor, I'm from Brasil... I'm bachelor Computer Science at Federal University of Ceara, that <br>
-has been working as a Fullstack Developer since 2019.
+has been working as a Software Engineer since 2019.
 
 
 I'm dedicated about solving problems and learning. Always open to new challenges and ready to face changes.
